@@ -1,0 +1,20 @@
+.MenuBtn {
+  margin: 5vmin;
+}
+.MenuBtn {
+  display: inline-block;
+  color: #29282c;
+  border: 1px solid #f7bb0e;
+  background: #f7bb0e;
+  box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  vertical-align: middle;
+  max-width: 120px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 4px;
+}
+.MenuBtn:active {
+  color: #ffffff;
+  box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.6);
+}

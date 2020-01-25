@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
 import Selection from "../Selection";
+import "./style.css";
 
 class Menu extends Component {
   state = {
