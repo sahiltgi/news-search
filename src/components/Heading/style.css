@@ -1,0 +1,13 @@
+* {
+  margin-top: 0px;
+  padding: 0px;
+}
+.header {
+  background-color: #29282c;
+  text-align: center;
+  color: #ffffff;
+  height: 10vh;
+}
+.text-heading {
+  margin: 5px;
+}
