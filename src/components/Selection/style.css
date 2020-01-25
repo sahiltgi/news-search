@@ -1,6 +1,6 @@
 .selection {
-  background-color: #f00000;
   margin: 3px;
+  padding: 3px;
   border-radius: 4px;
   color: #ffffff;
   cursor: pointer;
