@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./style.css";
-import { news_country, news_categories, update_data } from "../Actions/action";
+import { news_country, news_categories, update_data } from "../Actions/actions";
 import store from "../../store";
 
 class Selection extends Component {

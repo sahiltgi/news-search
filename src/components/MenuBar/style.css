@@ -3,9 +3,9 @@
   margin: 0;
 }
 .SideMenu {
-  min-height: 100vh;
-  /* min-width: 15vw; */
-  width: 220px;
+  height: 100vmax;
+  min-width: 16vw;
+  /* width: 20vw !important; */
   background-color: #29282c;
   display: flex;
   flex-direction: column;

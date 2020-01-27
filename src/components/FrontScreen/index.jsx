@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Header from "../Heading";
+import NewsFeeds from "../NewsFeeds";
 
 class Screen extends Component {
   state = {};
@@ -7,6 +8,7 @@ class Screen extends Component {
     return (
       <div>
         <Header />
+        <NewsFeeds />
       </div>
     );
   }

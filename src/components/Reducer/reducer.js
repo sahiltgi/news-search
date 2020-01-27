@@ -1,4 +1,4 @@
-import { NEWS_COUNTRY, NEWS_CATEGORIES, UPDATE_DATA } from "../Actions/action";
+import { NEWS_COUNTRY, NEWS_CATEGORIES, UPDATE_DATA } from "../Actions/actions";
 
 const initialState = {
   category: "business",

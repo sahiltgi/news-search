@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.news-feeds {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  height: 100vh;
+}
+
+button {
+  background-color: #f00000;
+  border: 1px solid #f00000;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
