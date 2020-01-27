@@ -6,8 +6,8 @@ import Screen from "./components/FrontScreen";
 function App() {
   return (
     <div className="App">
-      <Screen />
       <MenuBar />
+      <Screen />
     </div>
   );
 }
